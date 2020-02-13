@@ -1,0 +1,8 @@
+# This is a nested for loop
+
+for i in range(1,4):
+   print(i,"This is the outter")
+   for u in range(1,3):
+       print(u, "This is the innter")
+    
+    
